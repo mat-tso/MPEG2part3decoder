@@ -49,6 +49,7 @@ Layer I being so simple, the reference implementation may be
     
 | Implementation   | OK  | SIMD | Layer | License | ISO |
 | ---------------- |:---:|:----:|:-----:|:-------:|:----|
+| [TwoLame]        | [ ] | [?]  |  II  |  LGPL    | [X] |
 | [mp3-decoder]    | [ ] | [ ]  |  III  |  GPL    | [ ] |
 | [minimp3]        | [ ] | [X]  |  All  |  CC-0   | [X] |
 | [libmad]         | [ ] | [X]  |  All  |  GPL    | [X] |
@@ -57,3 +58,4 @@ Layer I being so simple, the reference implementation may be
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
 [minimp3]: https://github.com/lieff/minimp3
 [libmad]: https://github.com/markjeee/libmad
+[TwoLame]: https://github.com/njh/twolame
