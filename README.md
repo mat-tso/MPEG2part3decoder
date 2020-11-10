@@ -55,8 +55,8 @@ Layer I being so simple, the reference implementation may be
 | [minimp3]        | [ ] | [X]  |  All  |  CC0    | [X] |
 | [libmad]         | [ ] | [X]  |  All  |  GPL    | [X] |
 
-
+[PDMP2]: https://github.com/technosaurus/PDMP2
+[TwoLame]: https://github.com/njh/twolame
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
 [minimp3]: https://github.com/lieff/minimp3
 [libmad]: https://github.com/markjeee/libmad
-[TwoLame]: https://github.com/njh/twolame
