@@ -54,9 +54,18 @@ Layer I being so simple, the reference implementation may be
 | [mp3-decoder]    | [ ]  |  III  |  GPL    | [ ] |
 | [minimp3]        | [X]  |  All  |  CC0    | [X] |
 | [libmad]         | [X]  |  All  |  GPL    | [X] |
+| [PDMP3]          | [ ]  | All?  |  CC0    | [?] |
 
 [PDMP2]: https://github.com/technosaurus/PDMP2
+[PDMP3]: https://github.com/technosaurus/PDMP3
 [TwoLame]: https://github.com/njh/twolame
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
 [minimp3]: https://github.com/lieff/minimp3
 [libmad]: https://github.com/markjeee/libmad
+
+## Interesting links
+- [Let’s build an MP3-decoder!](http://blog.bjrn.se/2008/10/lets-build-mp3-decoder.html)
+- [Inside MP3](http://www.multiweb.cz/twoinches/mp3inside.htm)
+- [Inside the MP3 codec](http://www.mp3-converter.com/mp3codec/)
+- [minimp3 interesting links](https://github.com/lieff/minimp3#interesting-links)
+- [PDMP3 interesting links](https://github.com/technosaurus/PDMP3#todo:~:text=good%20references)
