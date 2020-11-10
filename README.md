@@ -9,7 +9,7 @@ This is a toy project, use at your own risk!
  - [ ] Layer III (MP3)
 
 ## Roadmap
- 1) [ ] Find a simple reference implementation
+ 1) [ ] Find a simple [reference implementation](#existing-implementations)
       + It should be in C and contain as few as possible assembly and no threading
       + It should have a compatible license
       + It should have a test suite
