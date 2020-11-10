@@ -47,13 +47,13 @@ Layer I being so simple, the reference implementation may be
 ## Existing implementations
 
     
-| Implementation   | OK  | SIMD | Layer | License | ISO |
-| ---------------- |:---:|:----:|:-----:|:-------:|:----|
-| [PDMP2]          | [X] | [ ]  |  II   |  CC0    | [?] |
-| [TwoLame]        | [ ] | [?]  |  II   |  LGPL   | [X] |
-| [mp3-decoder]    | [ ] | [ ]  |  III  |  GPL    | [ ] |
-| [minimp3]        | [ ] | [X]  |  All  |  CC0    | [X] |
-| [libmad]         | [ ] | [X]  |  All  |  GPL    | [X] |
+| Implementation   | SIMD | Layer | License | ISO |
+| ---------------- |:----:|:-----:|:-------:|:----|
+| [PDMP2]          | [ ]  |  II   |  CC0    | [?] |
+| [TwoLame]        | [?]  |  II   |  LGPL   | [X] |
+| [mp3-decoder]    | [ ]  |  III  |  GPL    | [ ] |
+| [minimp3]        | [X]  |  All  |  CC0    | [X] |
+| [libmad]         | [X]  |  All  |  GPL    | [X] |
 
 [PDMP2]: https://github.com/technosaurus/PDMP2
 [TwoLame]: https://github.com/njh/twolame
