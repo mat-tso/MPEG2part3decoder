@@ -56,4 +56,4 @@ Layer I being so simple, the reference implementation may be
 
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
 [minimp3]: https://github.com/lieff/minimp3
-[libmad]: https://github.com/markjeee/libmad)
+[libmad]: https://github.com/markjeee/libmad
