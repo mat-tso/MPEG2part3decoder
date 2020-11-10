@@ -49,9 +49,10 @@ Layer I being so simple, the reference implementation may be
     
 | Implementation   | OK  | SIMD | Layer | License | ISO |
 | ---------------- |:---:|:----:|:-----:|:-------:|:----|
-| [TwoLame]        | [ ] | [?]  |  II  |  LGPL    | [X] |
+| [PDMP2]          | [X] | [ ]  |  II   |  CC0    | [?] |
+| [TwoLame]        | [ ] | [?]  |  II   |  LGPL   | [X] |
 | [mp3-decoder]    | [ ] | [ ]  |  III  |  GPL    | [ ] |
-| [minimp3]        | [ ] | [X]  |  All  |  CC-0   | [X] |
+| [minimp3]        | [ ] | [X]  |  All  |  CC0    | [X] |
 | [libmad]         | [ ] | [X]  |  All  |  GPL    | [X] |
 
 
