@@ -21,7 +21,7 @@ This is a toy project, use at your own risk!
       + It should have a test suite
       + It should be simple to read and port (no assembly, no complex SIMD)
  2. [ ] Compile the reference implementation as submodule with Cargo
- 3. [ ] Make the reference implementation callable from Rust
+ 3. [ ] Make the reference implementation callable from Rust ([C2Rust](https://github.com/immunant/c2rust)?)
  4. [ ] Reimplement each component and compare with reference implementation
 
 Layer I being so simple, a reference implementation may not be needed.
@@ -55,7 +55,7 @@ Layer I being so simple, a reference implementation may not be needed.
     
 | Implementation   | SIMD | Layer | License | ISO |
 | ---------------- |:----:|:-----:|:-------:|:----|
-| [PDMP2]          | [ ]  |  II   |  CC0    | [?] |
+| [PDMP2]          | [ ]  |  II   |  Zlib  | [?] |
 | [TwoLame]        | [?]  |  II   |  LGPL   | [X] |
 | [mp3-decoder]    | [ ]  |  III  |  GPL    | [ ] |
 | [minimp3]        | [X]  |  All  |  CC0    | [X] |
