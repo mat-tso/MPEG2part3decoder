@@ -53,21 +53,21 @@ Layer I being so simple, a reference implementation may not be needed.
 ## Existing implementations
 
     
-| Implementation   | SIMD | Layer | License | ISO |
-| ---------------- |:----:|:-----:|:-------:|:----|
-| [PDMP2]          | [ ]  |  II   |  Zlib  | [?] |
-| [TwoLame]        | [?]  |  II   |  LGPL   | [X] |
+| Implementation   | SIMD | Layer | License | ISO | Note
+| ---------------- |:----:|:-----:|:-------:|:---:|:------|
+| [PDMP2]          | [ ]  |  II   |  Zlib   | [?] |
 | [mp3-decoder]    | [ ]  |  III  |  GPL    | [ ] |
 | [minimp3]        | [X]  |  All  |  CC0    | [X] |
 | [libmad]         | [X]  |  All  |  GPL    | [X] |
 | [PDMP3]          | [ ]  | All?  |  CC0    | [?] |
+| ~[TwoLame]~      | [?]  |  II   |  LGPL   | [X] | Encoder only
 
 [PDMP2]: https://github.com/technosaurus/PDMP2
 [PDMP3]: https://github.com/technosaurus/PDMP3
-[TwoLame]: https://github.com/njh/twolame
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
 [minimp3]: https://github.com/lieff/minimp3
 [libmad]: https://github.com/markjeee/libmad
+[TwoLame]: https://github.com/njh/twolame
 
 ## Interesting links
 - [Let’s build an MP3-decoder!](http://blog.bjrn.se/2008/10/lets-build-mp3-decoder.html)
