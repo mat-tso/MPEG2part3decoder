@@ -63,7 +63,7 @@ Layer I being so simple, a reference implementation may not be needed.
 | [PDMP3]          | [ ]  | All?  |  CC0    | [?] |
 | ~[TwoLame]~      | [?]  |  II   |  LGPL   | [X] | Encoder only
 
-[Jon Olick]: https://www.jonolick.com/code.html
+[Jon Olick]: https://www.jonolick.com/uploads/7/9/2/1/7921194/jo_mp1.cpp
 [PDMP2]: https://github.com/technosaurus/PDMP2
 [PDMP3]: https://github.com/technosaurus/PDMP3
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
