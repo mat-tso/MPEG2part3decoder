@@ -1,12 +1,18 @@
-# Yet another MPEG-2 decoder
-An attempt at an MPEG-2 decoder in Rust.
+# Yet another MPEG-2 Part 3 decoder
+An attempt at an [MPEG-2 Part 3](https://en.wikipedia.org/wiki/MPEG-2_Part_3) decoder in Rust.
 
 This is a toy project, use at your own risk!
 
 ## Supported layers
- - [ ] Layer I (MP1)
- - [ ] Layer II (MP2)
- - [ ] Layer III (MP3)
+ - [ ] [Layer I] (MP1)
+ - [ ] [Layer II] (MP2)
+   + [ ] [Multichannel]
+ - [ ] [Layer III] (MP3)
+
+[Layer I]: https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_I
+[Layer II]: https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II
+[Multichannel]: https://en.wikipedia.org/wiki/MPEG_Multichannel
+[Layer III]: https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_III
 
 ## Roadmap
  1) [ ] Find a simple [reference implementation](#existing-implementations)
@@ -18,7 +24,7 @@ This is a toy project, use at your own risk!
  3. [ ] Make the reference implementation callable from Rust
  4. [ ] Reimplement each component and compare with reference implementation
 
-Layer I being so simple, the reference implementation may be 
+Layer I being so simple, a reference implementation may not be needed.
 
 ## Personal goals
  - Learn Rust
