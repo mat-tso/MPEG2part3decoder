@@ -55,7 +55,7 @@ Layer I being so simple, a reference implementation may not be needed.
     
 | Implementation   | SIMD | Layer | License | ISO | Note
 | ---------------- |:----:|:-----:|:-------:|:---:|:------|
-| [Jon Olick]'s    | [ ]  |  I    |  Public | [?] | [archive](https://github.com/dying153/jonolick.com/blob/master/code/jo_mpeg.cpp)
+| [Jon Olick]'s    | [ ]  |  I    |  Public | [?] | [JO archive]
 | [PDMP2]          | [ ]  |  II   |  Zlib   | [?] |
 | [mp3-decoder]    | [ ]  |  III  |  GPL    | [ ] |
 | [minimp3]        | [X]  |  All  |  CC0    | [X] |
@@ -64,6 +64,7 @@ Layer I being so simple, a reference implementation may not be needed.
 | ~[TwoLame]~      | [?]  |  II   |  LGPL   | [X] | Encoder only
 
 [Jon Olick]: https://www.jonolick.com/uploads/7/9/2/1/7921194/jo_mp1.cpp
+[JO archive]: https://github.com/dying153/jonolick.com/blob/master/code/jo_mp1.cpp
 [PDMP2]: https://github.com/technosaurus/PDMP2
 [PDMP3]: https://github.com/technosaurus/PDMP3
 [mp3-decoder]: https://github.com/FlorisCreyf/mp3-decoder
